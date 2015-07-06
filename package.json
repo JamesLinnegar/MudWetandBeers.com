@@ -12,6 +12,7 @@
     "handlebars": "^3.0.3",
     "metalsmith": "^1.7.0",
     "metalsmith-markdown": "^0.2.1",
+    "metalsmith-sass": "^1.2.1",
     "metalsmith-templates": "^0.7.0"
   }
 }
