@@ -14,5 +14,8 @@
     "metalsmith-markdown": "^0.2.1",
     "metalsmith-sass": "^1.2.1",
     "metalsmith-templates": "^0.7.0"
+  },
+  "scripts":{
+    "build": "node index.js"
   }
 }

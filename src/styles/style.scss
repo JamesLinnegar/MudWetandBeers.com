@@ -1,6 +1,14 @@
 body {
+	padding: 0;
+	margin: 0;
+	border: 0;
 	text-align: center;
-	padding-top: 50px;
     font-family: 'Open Sans', sans-serif;
     text-rendering: optimizelegibility;
+
+}
+
+.page {
+	max-width: 780px;
+	margin: auto;
 }
