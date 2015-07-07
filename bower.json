@@ -1,0 +1,19 @@
+{
+  "name": "MudWetandBeers",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "James Linnegar <jlinnega@thoughtworks.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-scss": "~3.0.3"
+  }
+}
