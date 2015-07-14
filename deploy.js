@@ -11,7 +11,7 @@ var params = {
   localDir: "build",
   deleteRemoved: true,
   s3Params: {
-    Bucket: "mudwetandbeers"
+    Bucket: process.env.AWS_BUCKET
   },
 };
 
