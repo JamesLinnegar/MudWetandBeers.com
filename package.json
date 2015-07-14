@@ -18,6 +18,7 @@
     "metalsmith-serve": "0.0.3",
     "metalsmith-sitemap": "^0.1.0",
     "metalsmith-templates": "^0.7.0",
-    "metalsmith-watch": "^1.0.1"
+    "metalsmith-watch": "^1.0.1",
+    "s3": "^4.4.0"
   }
 }
