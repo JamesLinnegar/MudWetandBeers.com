@@ -6,10 +6,17 @@ body {
 	border: 0;
     font-family: 'Open Sans', sans-serif;
     text-rendering: optimizelegibility;
-
 }
 
 .page {
-	max-width: 780px;
+	max-width:970px;
 	margin: auto;
+}
+
+.lead {
+	background-image: url(/images/header.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 250px;
 }
